@@ -1,0 +1,254 @@
+[
+  {
+    "source": "cardcash",
+    "merchant": "Carnival Cruises",
+    "face_value": 100.0,
+    "price": 93.0,
+    "discount_percent": 7.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-carnival-cruises-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Starbucks",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-starbucks-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Roblox",
+    "face_value": 100.0,
+    "price": 95.0,
+    "discount_percent": 5.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-roblox-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Walmart",
+    "face_value": 100.0,
+    "price": 94.0,
+    "discount_percent": 6.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-walmart-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Apple",
+    "face_value": 100.0,
+    "price": 92.0,
+    "discount_percent": 8.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-apple-(not-itunes)-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Target",
+    "face_value": 100.0,
+    "price": 91.0,
+    "discount_percent": 9.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-target-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Domino's Pizza",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-domino-s-pizza-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Dunkin'",
+    "face_value": 100.0,
+    "price": 99.0,
+    "discount_percent": 1.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-dunkin--donuts-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Olive Garden",
+    "face_value": 100.0,
+    "price": 98.0,
+    "discount_percent": 2.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-olive-garden-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Topgolf",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-topgolf-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Panera Bread",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-panera-bread-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Chipotle",
+    "face_value": 100.0,
+    "price": 94.0,
+    "discount_percent": 6.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-chipotle-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Texas Roadhouse",
+    "face_value": 100.0,
+    "price": 92.0,
+    "discount_percent": 8.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-texas-roadhouse-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "CVS",
+    "face_value": 100.0,
+    "price": 95.0,
+    "discount_percent": 5.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-cvs-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Buffalo Wild Wings",
+    "face_value": 100.0,
+    "price": 98.0,
+    "discount_percent": 2.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-buffalo-wild-wings-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Nintendo",
+    "face_value": 100.0,
+    "price": 92.0,
+    "discount_percent": 8.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-nintendo-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Subway",
+    "face_value": 100.0,
+    "price": 95.0,
+    "discount_percent": 5.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-subway-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Jersey Mike's",
+    "face_value": 100.0,
+    "price": 96.0,
+    "discount_percent": 4.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-jersey-mikes-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Sonic",
+    "face_value": 100.0,
+    "price": 77.0,
+    "discount_percent": 23.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-sonic-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Michaels",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-michaels-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Mcdonalds",
+    "face_value": 100.0,
+    "price": 95.0,
+    "discount_percent": 5.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-mcdonalds-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "DoorDash",
+    "face_value": 100.0,
+    "price": 95.0,
+    "discount_percent": 5.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-doordash-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "LongHorn Steakhouse",
+    "face_value": 100.0,
+    "price": 98.0,
+    "discount_percent": 2.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-longhorn-steakhouse-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Lowe's",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-lowes-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Kohl's",
+    "face_value": 100.0,
+    "price": 97.0,
+    "discount_percent": 3.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-kohls-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Old Navy",
+    "face_value": 100.0,
+    "price": 98.0,
+    "discount_percent": 2.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-old-navy-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Fandango",
+    "face_value": 100.0,
+    "price": 94.0,
+    "discount_percent": 6.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-fandango-cards/",
+    "expires_at": null
+  },
+  {
+    "source": "cardcash",
+    "merchant": "Barnes & Noble",
+    "face_value": 100.0,
+    "price": 91.0,
+    "discount_percent": 9.0,
+    "url": "https://www.cardcash.com/buy-gift-cards/discount-barnes-noble-cards/",
+    "expires_at": null
+  }
+]

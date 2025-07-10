@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-07-09T22:05:28.238505",
+  "results": {
+    "basic_components": {
+      "database": true,
+      "scraper": false,
+      "telegram": true,
+      "geniuslink": true
+    },
+    "deal_monitoring": {
+      "monitoring_session": true,
+      "turnover_analysis": true,
+      "recommendation": true,
+      "dashboard": true
+    },
+    "adaptive_scraper": {
+      "scraper_init": true,
+      "frequency_bounds": true,
+      "frequency_adjustment_high": false,
+      "frequency_adjustment_low": true,
+      "start_scraper": true,
+      "stop_scraper": true
+    },
+    "end_to_end": {
+      "fetch_deals": false,
+      "filter_deals": true,
+      "format_deal": true,
+      "integrated_monitor": true,
+      "frequency_integration": true,
+      "adaptive_cycle": false
+    }
+  },
+  "summary": {
+    "basic_components": false,
+    "deal_monitoring": true,
+    "adaptive_scraper": false,
+    "end_to_end": false
+  }
+}

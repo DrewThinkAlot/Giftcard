@@ -1,0 +1,88 @@
+{
+  "adjustments": [
+    {
+      "timestamp": "2025-07-09T17:58:16.678320",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    },
+    {
+      "timestamp": "2025-07-09T18:13:42.256943",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    },
+    {
+      "timestamp": "2025-07-09T19:09:58.587716",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    },
+    {
+      "timestamp": "2025-07-09T21:45:57.851579",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    },
+    {
+      "timestamp": "2025-07-09T21:55:30.397738",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    },
+    {
+      "timestamp": "2025-07-09T22:03:54.954231",
+      "old_frequency": 15,
+      "new_frequency": 60,
+      "reason": "very low turnover and long deal lifetime",
+      "confidence": "high",
+      "metrics": {
+        "gcx_turnover": 4.0,
+        "cardcash_turnover": 3.0,
+        "avg_lifetime_minutes": 190.0,
+        "scrape_count": 6
+      }
+    }
+  ],
+  "stats": {
+    "total_adjustments": 6,
+    "increases": 0,
+    "decreases": 6,
+    "last_updated": "2025-07-09T22:03:54.954504"
+  }
+}
